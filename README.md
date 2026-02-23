@@ -14,7 +14,7 @@ This repository tracks my learning journey of Python and Java, aiming to secure 
   - `01-Python中的字面量.py`: 字面量（整数、浮点数、字符串）基础练习。
   - `README.md`: 基础知识点文件清单及学习目标说明。
 - `02_python_cases/`: Python 综合案例和实战项目
-  - `03-求钱包余额练习.py`: 函数综合案例，模拟钱包余额查询。
+  - `01-求钱包余额练习.py`: 函数综合案例，模拟钱包余额查询。
   - `README.md`: 综合案例说明及后续计划。
 
 ## 🎯 学习规划 (Study Plan)

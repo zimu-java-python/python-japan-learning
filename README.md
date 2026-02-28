@@ -34,7 +34,7 @@ Python 3.x
 
 1.克隆本仓库：
 
-git clone https://github.com/zimu-megumi/python-learning.git
+git clone https://github.com/zimu-java-python/python-learning.git
 
 2.进入对应目录，运行 Python 脚本：
 
